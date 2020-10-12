@@ -1,0 +1,2 @@
+# edu-git
+Studying Git.
